@@ -32,7 +32,7 @@ Aqui estão algumas das tecnologias que eu tenho experiência:
 ## Contato
 
 - LinkedIn: [Acesse aqui](https://www.linkedin.com/in/renatauzeda/)
-- Email: [Meu Email](renata.github@gmail.com)
+- Email: renata.github@gmail.com
 
 Sinta-se à vontade para entrar em contato comigo para discutir colaborações, compartilhar conhecimentos ou apenas bater um papo sobre desenvolvimento de software e tecnologia!
 
