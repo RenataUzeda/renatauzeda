@@ -1,7 +1,6 @@
 # Olá! Eu sou Renata Uzêda
 
-Sou uma desenvolvedora de software com paixão por transformar ideias em código.
-
+Uma desenvolvedora de software com paixão por transformar ideias em código.
 
 ## Sobre Mim
 Depois de uma carreira bem-sucedida como gerente geral em uma softhouse, decidi voltar à minha primeira paixão na área da tecnologia e mergulhar de cabeça no mundo do desenvolvimento de software. Desde então, tenho me dedicado a aprender e crescer nesse fascinante campo.
