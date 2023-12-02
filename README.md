@@ -1,4 +1,4 @@
-# Olá! Eu sou [Renata Uzêda]
+# Olá! Eu sou Renata Uzêda
 
 Sou uma desenvolvedora de software com paixão por transformar ideias em código.
 
@@ -26,6 +26,7 @@ Aqui estão algumas das tecnologias que eu tenho experiência:
 
 ## Projetos Recentes
 
+- [PDV Bella-Venda](https://github.com/RenataUzeda/pdv-bellavenda) - Uma API que simula funções básicas de um PDV, aplicando os princípios REST, feito em equipe de 5 pessoas.
 - [Banco Digital](https://github.com/RenataUzeda/banco-digital) -  Uma API funcional para um Banco Digital, aplicando os princípios REST e garantindo a validação adequada das operações financeiras.
 
 
